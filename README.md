@@ -1,4 +1,7 @@
 ## Natalidad a través de los países: Posibles causas y consecuencias.
+
+![alt text](https://github.com/wbguc/Proyecto-Semestral/blob/main/grafico.png "Grafico comparativo")
+
 **"La tasa de natalidad ha disminuido  en los últimos años en muchos países, mientras que otros 
 aún tienen altos niveles de natalidad. Estos cambios tienen relaciones directas en las políticas 
 públicas,  la  educación,  la  salud,  etc.  Analizar  las  causas  de  estas  diferencias  es  clave  para 
